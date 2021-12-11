@@ -1,0 +1,29 @@
+body,
+html {
+    height: 60%;
+    margin: 0;
+    font-family: "Futura", "Trebuchet MS", Arial, sans-serif;
+}
+
+#myTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#myTable td,
+#myTable th {
+    text-align: left;
+    padding: 8px;
+}
+
+td {
+    font-family: "Futura", "Trebuchet MS", Arial, sans-serif;
+}
+
+th {
+    font-family: "Futura", "Trebuchet MS", Arial, sans-serif;
+}
+
+#myTable tr:nth-child(even) {
+    background-color: rgb(75, 148, 56);
+}
