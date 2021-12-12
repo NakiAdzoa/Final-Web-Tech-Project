@@ -13,7 +13,7 @@ require "staffLogin.php";
     <div class="boxOne">
     </div>
 
-    <img src="cssimages\logo.png" alt="Company Logo"/>
+    <img src="logo.png" alt="Company Logo"/>
 
     <p1><strong>SIGN IN with your COMPANY ISSUED PHONE NUMBER and your SET PASSWORD</strong></p1>
 
